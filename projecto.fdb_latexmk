@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1381597420 "projecto.tex" "projecto.pdf" "projecto" 1381597421
+["pdflatex"] 1381600155 "projecto.tex" "projecto.pdf" "projecto" 1381600156
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/aliascnt.sty" 1381495430 2598 b30528bf103263149326b7572d9672a5 ""
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/llncs.cls" 1381495430 42849 e98f9316a296920ae82de0017d2b1604 ""
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/remreset.sty" 1381495430 1096 6a75275ca00e32428c6f059d2f618ea7 ""
@@ -30,8 +30,8 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/tools/multicol.sty" 1312409015 26766 56c30c5bea3083b5a0d6fc2ce0063096 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
-  "projecto.aux" 1381597421 764 4d16abb01970479d9286d1a9f11e3240 ""
-  "projecto.tex" 1381597417 4109 3f2fd10a06783b883abfc7606eef61b0 ""
+  "projecto.aux" 1381600156 764 4d16abb01970479d9286d1a9f11e3240 ""
+  "projecto.tex" 1381600153 4109 3f2fd10a06783b883abfc7606eef61b0 ""
   (generated)
   "projecto.log"
   "projecto.pdf"
