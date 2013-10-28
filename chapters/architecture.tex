@@ -1,0 +1,35 @@
+\section{Architecture}
+
+In this project we are going to apply Self Organizing Maps in order to detect clusters of Topics on Twitter. 
+
+\subsection{Data Gathering} % (fold)
+ \label{sub:data_gathering}
+
+ In order to retrieve data from Twitter, we will be using a ruby library called Twitter Stream \cite{TweetStream}, that enables the user to download and inspect the twitter stream of tweets. As the data is gathered it will be stored in a MongoDB database for posterior analyses. 
+ As the twitter stream is stored, another function will interact with the twitter API in order to retrieve information from a user profile and relate him with other users by analyzing his followers and who the user is following.
+ In the end of the data-gathering process it will be possible to query the database for:
+ \begin{itemize}
+   \item  Tweets from a user.
+   \item  Query tweets for hashtag.
+   \item  Query users followers and who he is following.
+   \item  Query for tweets that shared the same URI 
+ \end{itemize}
+
+ % subsection data_gathering (end) 
+
+\subsection{Data Characterization} % (fold)
+\label{sub:data_labeling}
+Depois de se tirar twits a partir da API de streaming do mesmo, vamos contar as palavras mais utilizadas na rede social depois de se remover stop words, palavrões e abreviaturas socias (como lol, omg, brb e combinações das mesmas). As palavras com maior ocurrencia vão ser utilizadas como identificadores num tweet. De seguida para cada utilizador conta-se a quantidade de vezes que cada um mencionou cada uma das palavras com maior frequencia no twitter, desta forma identificamos o tipo de conteudo que um utilizador tem tendecia a produzir. 
+De forma a criarmos a representação de rede social iremos passar 30 por cento das palavras mais escritas de um utilizador para os seus followers e acrescentalas ao raking do mesmo.
+
+Os SOM vão organizar os teweets com base na representação social de um utilizador, deste modo esperamos encontrar núcleos de tweets com utilizadores com formas de escrita e interesses parecidos que faça com  que os seus tweets sejam sobre tópico similares.
+
+De forma a se fazer topic detection iremos pegar em palavras chave de um determinado tópico e porcurar em clusters que apresentem o maior numero de utlização dessas palavras.
+
+
+% subsection data_labeling (end)
+
+\begin{itemize}
+  \item How am I gonna solve the problem? 
+  \item Describe the work that will be done 
+\end{itemize}

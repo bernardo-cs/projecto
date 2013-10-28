@@ -1,5 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1381600698 "projecto.tex" "projecto.pdf" "projecto" 1381600700
+["bibtex projecto"] 1382988363 "projecto.aux" "projecto.bbl" "projecto" 1382988365
+  "/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Clustering.bib.bib" 0 -1 0 ""
+  "/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/SOMs.bib.bib" 0 -1 0 ""
+  "/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites.bib.bib" 0 -1 0 ""
+  "/usr/local/texlive/2013/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "projecto.aux" 1382988364 1703 51fd8cc501ee9c9486d73b22bd0cb6ef ""
+  "projecto.bcf" 0 -1 0 ""
+  (generated)
+  "projecto.blg"
+  "projecto.bbl"
+["pdflatex"] 1382988363 "projecto.tex" "projecto.pdf" "projecto" 1382988365
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/aliascnt.sty" 1381495430 2598 b30528bf103263149326b7572d9672a5 ""
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/llncs.cls" 1381495430 42849 e98f9316a296920ae82de0017d2b1604 ""
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/remreset.sty" 1381495430 1096 6a75275ca00e32428c6f059d2f618ea7 ""
@@ -17,6 +27,7 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd" 1359763108 961 6518c6525a34feb5e8250ffa91731cff ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd" 1359763108 961 d02606146ba5601b5645f987c92e6193 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty" 1254151887 4388 1cb2ca8d423695bd22ea8d126c276f33 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo" 1254151887 9042 248dfba326a1b8733d6bb8e0a3ac1e49 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty" 1254151804 14183 42a8fc761b806986eef292369afc2988 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty" 1156702488 7882 3bd78469d444e8d494e27cfd7ca92719 ""
@@ -29,9 +40,21 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1335995445 22417 c74ff4af6a1aa2b65d1924020edbbe11 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/tools/multicol.sty" 1312409015 26766 56c30c5bea3083b5a0d6fc2ce0063096 ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-0.def" 1368571634 7784 086a50b784a20762a031889b73f97126 ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-32.def" 1368571634 8033 ee5a06eead35a732222f876800c8f10f ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-global.def" 1368571634 1375 8a855db83af5d6753ccbbd32e6a8a901 ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/ucs.sty" 1368571634 27982 5723d81d568db410592a59b85fb3eaae ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/ucsencs.def" 1368571634 22368 c53c9d0d16c65bef2b157515c9d9f658 ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/utf8x.def" 1368571634 8036 21f7ac37aafb6cfeddbb196b8bfd6280 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
-  "projecto.aux" 1381600700 764 d6c955ac2401ba2090dc8bb9147934c5 ""
-  "projecto.tex" 1381600696 4434 94c0763aa1ecca1db3170753110c8f5d ""
+  "chapters/architecture.tex" 1382987717 2444 11d34b5616bc35faf9e449f9ee6dc9c7 ""
+  "chapters/evaluation_metrics.tex" 1382887117 685 c63998f7c833d732535002a3cd3ddc89 ""
+  "chapters/introduction.tex" 1382976368 2042 fa07e4fca700e05052b3383dcf32313f ""
+  "chapters/objectives.tex" 1382880145 20 3bf8815e34f128575e28c5669d8e79c9 ""
+  "chapters/related_work.tex" 1382988357 3426 9ad5fcb07e5293db74d33f591c2d499d ""
+  "projecto.aux" 1382988364 1703 51fd8cc501ee9c9486d73b22bd0cb6ef ""
+  "projecto.bbl" 1382981792 433 470fc976966d7aa525355356bc14f393 "bibtex projecto"
+  "projecto.tex" 1382981958 3114 468e66b63fcaa8611934104c49f5874a ""
   (generated)
   "projecto.log"
   "projecto.pdf"
