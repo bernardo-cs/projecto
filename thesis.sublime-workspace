@@ -1,0 +1,1442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"oa",
+				"oa_name"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inesc",
+				"inesc_id"
+			],
+			[
+				"query",
+				"query_national"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"Ad",
+				"AdvisorID"
+			],
+			[
+				"cc",
+				"cc_proj"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"em",
+				"emCalc"
+			],
+			[
+				"ongoing",
+				"ongoing_local"
+			],
+			[
+				"input_year_",
+				"input_year_left"
+			],
+			[
+				"tota",
+				"total_size_3"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"foreach",
+				"foreach	foreach …"
+			],
+			[
+				"Pess",
+				"PessoalInesc"
+			],
+			[
+				"quer",
+				"query_result"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"result",
+				"result3"
+			],
+			[
+				"Pessoal",
+				"PessoalEstagiario"
+			],
+			[
+				"pesso",
+				"pessoaId"
+			],
+			[
+				"sips",
+				"sips_people_array"
+			],
+			[
+				"sip",
+				"sips_people_array"
+			],
+			[
+				"res",
+				"researchers_array"
+			],
+			[
+				"researc",
+				"Researchers"
+			],
+			[
+				"fi",
+				"fig:errors"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"email",
+				"email_preferences"
+			],
+			[
+				"up",
+				"update_couter_cache"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"per",
+				"person_abrv_name"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"nav",
+				"nav_bar"
+			],
+			[
+				"people",
+				"people_array"
+			],
+			[
+				"na",
+				"nav_li"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"new",
+				"new_page"
+			],
+			[
+				"for",
+				"foreach	blade-foreach"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"end",
+				"end_year"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pro",
+				"project-body"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"dri",
+				"driver_rank"
+			],
+			[
+				"pa",
+				"passanger_rank"
+			],
+			[
+				"DriverVote",
+				"DriverVotePassenger"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"votes",
+				"votes_as_driver"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"pass",
+				"passengers"
+			],
+			[
+				"remo",
+				"removing"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"prototype",
+				"prototypes_admin"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"while",
+				"while	while …"
+			],
+			[
+				"edit",
+				"edit_home"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"input",
+				"input_year"
+			],
+			[
+				"inp",
+				"input_year"
+			],
+			[
+				"pri",
+				"privacy_policy"
+			],
+			[
+				"update",
+				"update_attribute"
+			],
+			[
+				"un",
+				"unread_messages_counter"
+			],
+			[
+				"n",
+				"notifications"
+			],
+			[
+				"unread",
+				"unread_count"
+			],
+			[
+				"canc",
+				"cancel"
+			],
+			[
+				"deli",
+				"deliver"
+			],
+			[
+				"User",
+				"UserNotifier"
+			],
+			[
+				"ride",
+				"ride_passenger"
+			],
+			[
+				"tar",
+				"tar_and_upload_folders"
+			],
+			[
+				"larave",
+				"laravel_files"
+			],
+			[
+				"lara",
+				"laravel_folders"
+			],
+			[
+				"book",
+				"book_chapters"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "bla",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"close a",
+				"File: Close All"
+			],
+			[
+				"close al",
+				"File: Close All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"set",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set sy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set sy",
+				"Set Syntax: YAML"
+			],
+			[
+				"snipp comm",
+				"Snippet: blade-comment"
+			],
+			[
+				"snipp c",
+				"Snippet: blade-comment"
+			],
+			[
+				"syn sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"snipp",
+				"Snippet: blade-if_else"
+			],
+			[
+				"snip",
+				"Snippet: blade-choice"
+			],
+			[
+				"synt sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"sa",
+				"File: Save All"
+			],
+			[
+				"save ",
+				"File: Save All"
+			],
+			[
+				"snipp ",
+				"Snippet: Figure"
+			],
+			[
+				"file",
+				"File: Duplicate"
+			],
+			[
+				"form",
+				"Snippet: form_for check_box"
+			],
+			[
+				"filedup",
+				"File: Duplicate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"file se",
+				"File: Search Files"
+			],
+			[
+				"set ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"rpl r",
+				"SublimeREPL: R"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/2_related_work.tex",
+		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/1_introduction.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex",
+		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/thesis.sublime-project",
+		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/architecture.tex",
+		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/.gitignore",
+		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/thesis.sublime-build",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_jsinclude.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/deploy.rb",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/rakefile.rb",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/show_student.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/helpers/PersonHelper.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_info_student.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/PeopleController.php",
+		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/related_work.tex",
+		"/Users/bersimoes/Desktop/bla.emails.csv",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/passenger_canceled.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/driver_accepted_passenger.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/info/imprensa.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/ride_canceled_by_driver.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/send_unread_messages_email.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/models/user.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/models/ride.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/config/locales/devise.en.yml",
+		"/Users/bersimoes/Documents/coding/umcoche/app/mailers/user_notifier.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/devise/mailer/confirmation_instructions.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/ride_request.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/passanger_reserved_seat.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/config/environments/development.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/ride_request.text.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/profiles/show.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/models/vote_passenger.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/profiles/_comment.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/message_responses/show.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/rides/show.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/public_messages/_form.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/public_messages/_public_message.html.erb",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/show.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/index.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/PublicationsController.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/foundation/sass/_tweaks.scss",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_supervised_students.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_supervised_alumnis.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/scripts/sql_csratchpad.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_info.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/_list_alumni.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/lib/researcher.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/lib/researcher.production",
+		"/Users/bersimoes/Library/Application Support/CouchPotato/settings.conf",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/lib/researcher.back.back",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/show_sips.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/files/todo.todo",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/start/global.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/config/app.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/not_found.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/foundation/sass/_settings.scss",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/foundation/sass/_overwrite.scss",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/foundation/config.rb",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/home/index.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/HomeController.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/helpers/QueryHelper.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/home/home_partials/_left_pubs.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_recent_publications.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/home/publications.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/home/projects.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/models/HomePublication.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/public_html/index.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/foundation/sass/_tweaks_small_screen.scss",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/foundation/sass/_tweaks_wide_screen.scss",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/SipsBarsTableSeeder.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_sipsbar.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/ContactsTableSeeder.php",
+		"/Users/bersimoes/Documents/coding/umcoche/app/presenters/ride_passenger_presenter.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/controllers/ride_passengers_controller.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/models/ride_passenger.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/models/notification_observer.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/ride_passengers/index.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/controllers/rides_controller.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/ride_passengers/_ride_passenger.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/info/seguranca.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/models/notification.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/welcome.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/models/waiting_user.rb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/welcome.text.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/umcohe_open.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/waiting_list.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/create_ride.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/driver_vote_for_passengers.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/email_beta.html",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/email_beta.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/passenger_vote_for_driver.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/received_private_message.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/ride_request_accepted.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/ride_requested_accepted.html.erb",
+		"/Users/bersimoes/Documents/coding/umcoche/Vagrantfile",
+		"/Users/bersimoes/Documents/coding/umcoche/config/environments/production.rb",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_head.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_projects.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/HomePublicationsTableSeeder.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/bootstrap/start.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/groups/edit.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/groups/partials/_form.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/GroupsController.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_navbar.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/GroupsTableSeeder2.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_11_06_142115_create_groups_table.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_admin.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_11_06_185710_create_customs_table.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/CustomsTableSeeder.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/edit_home/partials/_form.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/edit_home/edit.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/SipsBarTeamController.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/sips_bar_team/index.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/PagesController.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/sips_bar_team/edit.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/sips_bar_team/partials/_form.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/NavBarTeamLisTableSeeder.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/index.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_12_01_193911_create_nav_bar_team_lis_table.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/routes.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/partials/_form.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/edit.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/home/home_partials/_right_pubs.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/edit_publications/edit.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/show.blade.php",
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_11_15_143759_create_pages_table.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/bersimoes/Documents/coding/sips_backend/laravel/app",
+			"/Users/bersimoes/Documents/coding/sips_backend/laravel",
+			"",
+			"/Users/bersimoes/Documents/coding/sips_backend/old_sips",
+			"/Users/bersimoes/Documents/coding/sips_backend/php_lib/php_lib",
+			"/Users/bersimoes/Documents/coding/sips_backend/old_sips",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"./",
+			"build",
+			"getSipsStudent",
+			"jquery-1.10.2.min.map",
+			"highcharts",
+			"dissretation",
+			"getPhdAlumnis",
+			";;;2;;;",
+			"Infelizmente ",
+			"Hey",
+			"Boas notícias",
+			"Boas noticias",
+			"search_ride.png",
+			"já não vai fazer",
+			"CANCELOU a viajem ",
+			"cancelou a viajem ",
+			"cancelou a viajem para ",
+			"Infelizmente ",
+			"o teu pedido de ",
+			"<%= @ride.price %>",
+			"<b>",
+			"quer ir contigo ",
+			"ACEITOU o teu",
+			"a um clique",
+			"boa",
+			"quer ir contigo na tua",
+			"Confirmation instructions",
+			"Confirmation instructions	",
+			"Your account was successfully confirmed. You are now signed in.",
+			"é um abuso",
+			"style=\"color: #A8B3C0;\"",
+			"alumni",
+			"tspan",
+			"theses",
+			"thes",
+			"CoAdvisorI",
+			"CoAdvisorID",
+			"AdvisorId",
+			"AdvisorID",
+			"class",
+			"h5",
+			"h6",
+			"h5",
+			"student",
+			"h5",
+			"Students",
+			"h6",
+			"<strong",
+			"h5",
+			"Alumnis",
+			"alumnis",
+			"Alumnis",
+			"$dissertation_details['AdvisorID']",
+			"alumni",
+			"ul",
+			"student",
+			"panel",
+			"debug",
+			"h5",
+			"</h4>",
+			"<h4>",
+			"h5",
+			"email",
+			"A8B3C0",
+			"color: #A8B3C0;",
+			"panel",
+			"</h5>",
+			"<h5>",
+			"h5",
+			"style=\"color: #A8B3C0;\"",
+			"</a>",
+			"Id",
+			"8167",
+			"$url",
+			",",
+			"sips_id",
+			"4489",
+			"$customes->url",
+			"date",
+			"pro",
+			"proje",
+			"project",
+			"head",
+			"heade",
+			"quote",
+			"table",
+			"total_size_2",
+			"ID",
+			"nome",
+			"PessoaId",
+			"nome",
+			"PessoaId",
+			"http::",
+			"model",
+			"after_cancel",
+			"receive_email_passenger_canceled_seat",
+			"receive_email_passenger_reserved_seat",
+			"assim que",
+			"ele",
+			"model",
+			"accept_passenger",
+			"accept",
+			"after_accept",
+			"CAlled update",
+			"notify_observers",
+			"notify_observers(:after_accept)",
+			"Notification.accepted_passenger",
+			"UserNotifier.driver_accepted_passenger",
+			".accept",
+			"accept",
+			"Notification.accepted_passenger",
+			"after_accept",
+			"<a href=\"http:://umcoche.com/users/auth/facebook\" style=\"color: #FFF; text-decoration: none;\">Log in</a>",
+			"@user",
+			"create_preferences_profile_verifications",
+			"send_unread_messages_email",
+			"auto",
+			"vbguest",
+			"vbguest.auto_updat",
+			"welcome",
+			"Umcoche.com - Finalmente Online!",
+			"type-of-pubs",
+			"PrintTypeOfPubs",
+			"PUB_BOOK",
+			"PUB_PR",
+			"$",
+			"getUserP",
+			"image_url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"http://umcoche.com/users/auth/facebook\" style=\"color: #FFF; text-decoration: none;\">Log in</a>",
+			"    if ($input_end_year!=\"all\") {\n      $PubsObj->SetEndDate(ResearcherPublications::FILTER_ABS_DATE,12,$input_end_year);\n    }",
+			"    if ($input_year!=\"all\") {\n     $PubsObj->SetStartDate(ResearcherPublications::FILTER_ABS_DATE,1,$input_year);\n    }",
+			"Email",
+			"<a href=\"http:://umcoche.com/users/auth/facebook\" style=\"color: #FFF; text-decoration: none;\">Log in",
+			"<a href=\"http://umcoche.com/users/auth/facebook\">",
+			"<td colspan=\"1\" align=\"center\" style=\"padding: 5px 60px 5px 60px; font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #FFF;\"><a href=\"http://umcoche.com/termosprivacidade\">© 2013 umcoche.com / Todos os direitos reservados / Termos e Privacidade</a></td>",
+			"<td colspan=\"1\" align=\"center\" style=\"padding: 30px 60px 5px 60px; font-size: 17px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #2C4046;\"><a href=\"https://www.facebook.com/umcoche\">Segue-nos no Facebook</a></td>",
+			"<td width=\"100\" align=\"left\"><a href=\"/users/auth/facebook\"><%= image_tag \"email/logo.png\", alt: \"umcoche\" %></a></td>",
+			"@user.first_name"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"_list_students_inesc",
+				"app/views/people/partials/_list_students_inesc.blade.php"
+			],
+			[
+				"_list_students_phd_inesc",
+				"app/views/people/partials/_list_students_phd_inesc.blade.php"
+			],
+			[
+				"_list_researchers_inesc",
+				"app/views/people/partials/_list_researchers_inesc.blade.php"
+			],
+			[
+				"peopleindex",
+				"app/views/people/index.blade.php"
+			],
+			[
+				"peoplecon",
+				"app/controllers/PeopleController.php"
+			],
+			[
+				"_show_info_student",
+				"app/views/people/partials/person/_show_info_student.blade.php"
+			],
+			[
+				"person",
+				"app/helpers/PersonHelper.php"
+			],
+			[
+				"showstuden",
+				"app/views/people/show_student.blade.php"
+			],
+			[
+				"super",
+				"app/views/people/partials/person/_show_supervised_students.blade.php"
+			],
+			[
+				"jsincl",
+				"app/views/master_partials/_jsinclude.blade.php"
+			],
+			[
+				"personshoal",
+				"app/views/people/partials/person/_show_supervised_alumnis.blade.php"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"usernotifi",
+				"app/mailers/user_notifier.rb"
+			],
+			[
+				"comment",
+				"app/views/profiles/_comment.html.erb"
+			],
+			[
+				"vote_passenger",
+				"app/models/vote_passenger.rb"
+			],
+			[
+				"profileshow",
+				"app/views/profiles/show.html.erb"
+			],
+			[
+				"personshow",
+				"app/views/message_responses/show.html.erb"
+			],
+			[
+				"viewspublic_messages",
+				"app/views/public_messages/_public_message.html.erb"
+			],
+			[
+				"rideshow",
+				"app/views/rides/show.html.erb"
+			],
+			[
+				"viesips",
+				"app/views/master_partials/_sipsbar.blade.php"
+			],
+			[
+				"sipsbar",
+				"app/controllers/SipsBarsController.php"
+			],
+			[
+				"_show_info",
+				"app/views/people/partials/person/_show_info.blade.php"
+			],
+			[
+				"epopleshow",
+				"app/views/people/show_student.blade.php"
+			],
+			[
+				"peopleshow",
+				"app/views/people/show.blade.php"
+			],
+			[
+				"peopinde",
+				"app/views/people/index.blade.php"
+			],
+			[
+				"publi",
+				"app/controllers/PublicationsController.php"
+			],
+			[
+				"sql",
+				"scripts/sql_csratchpad.php"
+			],
+			[
+				"people",
+				"app/controllers/PeopleController.php"
+			],
+			[
+				"_showal",
+				"app/views/people/partials/person/_show_supervised_alumnis.blade.php"
+			],
+			[
+				"people/",
+				"app/views/people/partials/_list_alumni.blade.php"
+			],
+			[
+				"peopleshowin",
+				"app/views/people/partials/person/_show_info.blade.php"
+			],
+			[
+				"iphone",
+				"app/assets/javascripts/on_iphone.js"
+			],
+			[
+				"modelridepassenger",
+				"app/models/ride_passenger.rb"
+			],
+			[
+				"ride_passencon",
+				"app/controllers/ride_passengers_controller.rb"
+			],
+			[
+				"ride_passenger_presenter.",
+				"app/presenters/ride_passenger_presenter.rb"
+			],
+			[
+				"ride_passengers/ride_passenger",
+				"app/views/ride_passengers/_ride_passenger.html.erb"
+			],
+			[
+				"ride_passinde",
+				"app/views/ride_passengers/index.html.erb"
+			],
+			[
+				"personhel",
+				"app/helpers/PersonHelper.php"
+			],
+			[
+				"_show_supervised_alumnis",
+				"app/views/people/partials/person/_show_supervised_alumnis.blade.php"
+			],
+			[
+				"todo",
+				"files/todo.todo"
+			],
+			[
+				"to",
+				"files/todo.todo"
+			],
+			[
+				"_show_supervised_students",
+				"app/views/people/partials/person/_show_supervised_students.blade.php"
+			],
+			[
+				"appstartglo",
+				"app/start/global.php"
+			],
+			[
+				"person/_show_info",
+				"app/views/people/partials/person/_show_info.blade.php"
+			],
+			[
+				"peop",
+				"app/controllers/PeopleController.php"
+			],
+			[
+				"personinfo",
+				"app/views/people/partials/person/_show_info.blade.php"
+			],
+			[
+				"confi",
+				"foundation/config.rb"
+			],
+			[
+				"twe",
+				"foundation/sass/_tweaks.scss"
+			],
+			[
+				"peoplecontr",
+				"app/controllers/PeopleController.php"
+			],
+			[
+				"homeindex",
+				"laravel/app/views/home/index.blade.php"
+			],
+			[
+				"_left_pubs",
+				"laravel/app/views/home/home_partials/_left_pubs.blade.php"
+			],
+			[
+				"homeinde",
+				"laravel/app/views/home/index.blade.php"
+			],
+			[
+				"home",
+				"laravel/app/controllers/HomeController.php"
+			],
+			[
+				"publiccon",
+				"laravel/app/controllers/PublicationsController.php"
+			],
+			[
+				"quer",
+				"laravel/app/helpers/QueryHelper.php"
+			],
+			[
+				"homecont",
+				"laravel/app/controllers/HomeController.php"
+			],
+			[
+				"homeprojec",
+				"laravel/app/views/home/projects.blade.php"
+			],
+			[
+				"homepubli",
+				"laravel/app/views/home/publications.blade.php"
+			],
+			[
+				"publiinde",
+				"laravel/public_html/index.php"
+			],
+			[
+				"seting",
+				"laravel/foundation/sass/_settings.scss"
+			],
+			[
+				"_show_recent_publications",
+				"laravel/app/views/people/partials/person/_show_recent_publications.blade.php"
+			],
+			[
+				"twea",
+				"laravel/foundation/sass/_tweaks.scss"
+			],
+			[
+				"peopleind",
+				"laravel/app/views/people/index.blade.php"
+			],
+			[
+				"product",
+				"config/environments/production.rb"
+			],
+			[
+				"deploy",
+				"config/deploy.rb"
+			],
+			[
+				"schedule",
+				"config/schedule.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"notobser",
+				"app/models/notification_observer.rb"
+			],
+			[
+				"ride_passenger",
+				"app/models/ride_passenger.rb"
+			],
+			[
+				"ridepassengcon",
+				"app/controllers/ride_passengers_controller.rb"
+			],
+			[
+				"observer",
+				"app/models/notification_observer.rb"
+			],
+			[
+				"ride",
+				"app/models/ride.rb"
+			],
+			[
+				"ridecontr",
+				"app/controllers/rides_controller.rb"
+			],
+			[
+				"ridepasencon",
+				"app/controllers/ride_passengers_controller.rb"
+			],
+			[
+				"ride_passenger_presenter",
+				"app/presenters/ride_passenger_presenter.rb"
+			],
+			[
+				"ride_passindex",
+				"app/views/ride_passengers/index.html.erb"
+			],
+			[
+				"ide_passengers/ride_passenger",
+				"app/views/ride_passengers/_ride_passenger.html.erb"
+			],
+			[
+				"ridepassengerin",
+				"app/views/ride_passengers/index.html.erb"
+			],
+			[
+				"ridepasscontr",
+				"app/controllers/ride_passengers_controller.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"vagra",
+				"Vagrantfile"
+			],
+			[
+				"userno",
+				"app/mailers/user_notifier.rb"
+			],
+			[
+				"_graph",
+				"app/views/home/group/_graph.blade.php"
+			],
+			[
+				"head",
+				"app/views/master_partials/_head.blade.php"
+			],
+			[
+				"js",
+				"app/views/master_partials/_jsinclude.blade.php"
+			],
+			[
+				"_prizes",
+				"app/views/home/group/_prizes.php"
+			],
+			[
+				"resear",
+				"app/lib/researcher.php"
+			],
+			[
+				"personhelper",
+				"app/helpers/PersonHelper.php"
+			],
+			[
+				"queryhe",
+				"app/helpers/QueryHelper.php"
+			],
+			[
+				"_show_projects",
+				"app/views/people/partials/person/_show_projects.blade.php"
+			],
+			[
+				"start",
+				"bootstrap/start.php"
+			],
+			[
+				"navbar",
+				"app/views/master_partials/_navbar.blade.php"
+			],
+			[
+				"groups",
+				"app/controllers/GroupsController.php"
+			],
+			[
+				"master",
+				"app/views/master_admin.blade.php"
+			],
+			[
+				"sipsbarteamcon",
+				"app/controllers/SipsBarTeamController.php"
+			],
+			[
+				"pagesindex",
+				"app/views/pages/index.blade.php"
+			],
+			[
+				"pagescontro",
+				"app/controllers/PagesController.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"pagescon",
+				"app/controllers/PagesController.php"
+			],
+			[
+				"pgecontr",
+				"app/controllers/PagesController.php"
+			],
+			[
+				"pageshow",
+				"app/views/pages/show.blade.php"
+			],
+			[
+				"editpublications",
+				"app/views/edit_publications/edit.blade.php"
+			],
+			[
+				"homepublications",
+				"app/views/home/publications.blade.php"
+			],
+			[
+				"queryhelper",
+				"app/helpers/QueryHelper.php"
+			],
+			[
+				"homecon",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"_navbar",
+				"app/views/master_partials/_navbar.blade.php"
+			],
+			[
+				"_head",
+				"app/views/master_partials/_head.blade.php"
+			],
+			[
+				"_show_advisors",
+				"app/views/people/partials/person/_show_advisors.blade.php"
+			],
+			[
+				"_show_ongoing_dissertations",
+				"app/views/people/partials/person/_show_ongoing_dissertations.blade.php"
+			],
+			[
+				"show_student",
+				"app/views/people/show_student.blade.php"
+			],
+			[
+				"query",
+				"app/helpers/QueryHelper.php"
+			],
+			[
+				"perso",
+				"app/helpers/PersonHelper.php"
+			],
+			[
+				"peoplesho",
+				"app/views/people/show.blade.php"
+			],
+			[
+				"_project",
+				"app/views/home/projects_partials/_project.blade.php"
+			],
+			[
+				"show_project",
+				"app/views/home/show_project.blade.php"
+			],
+			[
+				"homecontro",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"homeprojects",
+				"app/views/home/projects.blade.php"
+			],
+			[
+				"nav",
+				"app/views/master_partials/_navbar.blade.php"
+			],
+			[
+				"per",
+				"app/helpers/PersonHelper.php"
+			],
+			[
+				"peoplecontrp",
+				"app/controllers/PeopleController.php"
+			],
+			[
+				"showinfostud",
+				"app/views/people/partials/person/_show_info_student.blade.php"
+			],
+			[
+				"navba",
+				"app/views/master_partials/_navbar.blade.php"
+			],
+			[
+				"_books",
+				"app/views/home/group/_books.blade.php"
+			],
+			[
+				"homecontr",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"homepub",
+				"app/views/home/publications.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}

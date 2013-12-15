@@ -1,0 +1,95 @@
+
+%%%%%%%%%%%%%%%%%%%%%%% file typeinst.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is the LaTeX source for the instructions to authors using
+% the LaTeX document class 'llncs.cls' for contributions to
+% the Lecture Notes in Computer Sciences series.
+% http://www.springer.com/lncs       Springer Heidelberg 2006/05/04
+%
+% It may be used as a template for your own input - copy it
+% to a new file with a new name and use it as the basis
+% for your article.
+%
+% NB: the document class 'llncs' has its own and detailed documentation, see
+% ftp://ftp.springer.de/data/pubftp/pub/tex/latex/llncs/latex2e/llncsdoc.pdf
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[runningheads,a4paper]{llncs}
+
+\usepackage{amssymb}
+\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+%%%%
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{cite}
+\usepackage[absolute]{textpos}
+\usepackage{tabularx}                 
+\usepackage{fancyhdr}
+\usepackage{helvet} 
+\usepackage{ucs}
+%%%%
+\usepackage{url}
+\usepackage[utf8x]{inputenc}
+\usepackage[english]{babel}
+\urldef{\mailsa}\path|bernardo.simoes@ist.ul.pt|
+\newcommand{\keywords}[1]{\par\addvspace\baselineskip
+\noindent\keywordname\enspace\ignorespaces#1}
+
+\begin{document}
+
+\mainmatter  % start of an individual contribution
+
+% first the title is needed
+\title{SocialSOM: \\Topic Detection on Twitter by Organizing Tweets on User Similarity}
+
+% a short form should be given in case it is too long for the running head
+\titlerunning{SocialSOM}
+
+% the name(s) of the author(s) follow(s) next
+%
+% NB: Chinese authors should write their first names(s) in front of
+% their surnames. This ensures that the names appear correctly in
+% the running heads and the author index.
+%
+\author{Bernardo Simões  20-25 páginas aproximadamente}
+%
+\authorrunning{Bernardo Simões}
+% (feature abused for this document to repeat the title also on left hand pages)
+
+% the affiliations are given next; don't give your e-mail address
+% unless you accept that it will be published
+\institute{Technical University of Lisbon - Taguspark Campus,\\
+Av. Prof. Doutor An\'{\i}bal Cavaco Silva — 2744-016 Porto Salvo, Portugal\\
+\mailsa\\
+\url{http://www.ist.utl.pt/en/}}
+
+%
+% NB: a more complex sample for affiliations and the mapping to the
+% corresponding authors can be found in the file "llncs.dem"
+% (search for the string "\mainmatter" where a contribution starts).
+% "llncs.dem" accompanies the document class "llncs.cls".
+%
+
+\toctitle{Lecture Notes in Computer Science}
+\tocauthor{Authors' Instructions}
+\maketitle
+
+
+\begin{abstract}
+
+\emph{70 and at most 150 words, What did I do, in a nutshell?, summarize the paper, should be written last , very short context ,what the objectives of the study were }
+\keywords{topic detection, twitter, self-organizing maps, classification, clustering}
+\end{abstract}
+
+\input{chapters/1_introduction}
+\input{chapters/2_related_work}
+\input{chapters/3_architecture}
+\input{chapters/4_evaluation_metrics}
+
+\bibliographystyle{plain}
+\bibliography{/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/library,/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites}
+
+\end{document}

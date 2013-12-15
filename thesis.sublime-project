@@ -1,0 +1,72 @@
+{
+	"folders":
+	[
+		{
+      "path": "/Users/bersimoes/Documents/Tese/PaperProjecto/chapters",
+      "file_exclude_patterns":[
+          "*.aux",
+          "*.glo",
+          "*.idx",
+          "*.log",
+          "*.toc",
+          "*.ist",
+          "*.acn",
+          "*.acr",
+          "*.alg",
+          "*.bbl",
+          "*.blg",
+          "*.dvi",
+          "*.glg",
+          "*.gls",
+          "*.ilg",
+          "*.ind",
+          "*.lof",
+          "*.lot",
+          "*.maf",
+          "*.mtc",
+          "*.mtc1",
+          "*.gitignore",
+          "*.fdb_latexmk",
+          "*.out",
+          "*.synctex.gz"
+      ]
+		},
+    {
+      "path": "/Users/bersimoes/Documents/Tese/PaperProjecto",
+      "file_exclude_patterns":[
+          "*.aux",
+          "*.glo",
+          "*.idx",
+          "*.log",
+          "*.toc",
+          "*.ist",
+          "*.acn",
+          "*.acr",
+          "*.alg",
+          "*.bbl",
+          "*.blg",
+          "*.dvi",
+          "*.glg",
+          "*.gls",
+          "*.ilg",
+          "*.ind",
+          "*.lof",
+          "*.lot",
+          "*.maf",
+          "*.mtc",
+          "*.mtc1",
+          "*.gitignore",
+          "*.fdb_latexmk",
+          "*.out",
+          "*.synctex.gz"
+      ]
+    }
+	],
+  "build_systems":
+  [
+      {
+          "name": "bla",
+          "cmd": ["pdflatex", "/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex"]
+      }
+  ]
+}

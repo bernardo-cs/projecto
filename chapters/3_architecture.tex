@@ -1,0 +1,36 @@
+%!TEX root = ../projecto.tex
+
+\section{Architecture} % (fold)
+\label{sec:architecture}
+In this project we are going to apply Self Organizing Maps in order to detect clusters of Topics on Twitter. 
+% section architecture (end)
+
+\subsection{Data Gathering} % (fold)
+ \label{sub:data_gathering}
+
+ In order to retrieve data from Twitter, we will be using a ruby library called Twitter Stream \cite{TweetStream} , that enables the user to download and inspect the twitter stream of tweets. As the data is gathered it will be stored in a MongoDB database for posterior analyses. 
+ As the twitter stream is stored, another function will interact with the twitter API in order to retrieve information from a user profile and relate him with other users by analyzing his followers and who the user is following.
+ In the end of the data-gathering process it will be possible to query the database for:
+ \begin{itemize}
+   \item  Tweets from a user.
+   \item  Query tweets for hashtag.
+   \item  Query users followers and who he is following.
+   \item  Query for tweets that shared the same URI 
+ \end{itemize}
+
+ Tweets will be cathegorized in:
+ \begin{itemize}
+   \item News Accounts
+   \begin{itemize}
+     \item Accounts with a lot of followers
+   \end{itemize}
+   \item Profile custumization 
+   \item Average number of tweets a day with uri (might suggest spam)
+ \end{itemize}
+
+ % subsection data_gathering (end) 
+
+\begin{itemize}
+  \item How am I gonna solve the problem? 
+  \item Describe the work that will be done 
+\end{itemize}
