@@ -335,13 +335,49 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "projecto.tex",
+			"settings":
+			{
+				"buffer_size": 3152,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "chapters/1_introduction.tex",
+			"settings":
+			{
+				"buffer_size": 2312,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapters/2_related_work.tex",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapters/3_architecture.tex",
+			"settings":
+			{
+				"buffer_size": 1527,
+				"line_ending": "Unix"
+			}
+		}
 	],
-	"build_system": "bla",
+	"build_system": "",
 	"command_palette":
 	{
-		"height": 227.0,
+		"height": 107.0,
 		"selected_items":
 		[
+			[
+				"close ",
+				"File: Close All"
+			],
 			[
 				"buil",
 				"Build: Build"
@@ -364,10 +400,6 @@
 			],
 			[
 				"close all",
-				"File: Close All"
-			],
-			[
-				"close ",
 				"File: Close All"
 			],
 			[
@@ -552,9 +584,14 @@
 	},
 	"file_history":
 	[
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/thesis.sublime-project",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_evaluation_metrics.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/1_introduction.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_related_work.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/3_architecture.tex",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/2_related_work.tex",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/1_introduction.tex",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/thesis.sublime-project",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/architecture.tex",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/.gitignore",
@@ -674,12 +711,7 @@
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/index.blade.php",
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_12_01_193911_create_nav_bar_team_lis_table.php",
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/routes.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/partials/_form.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/edit.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/home/home_partials/_right_pubs.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/edit_publications/edit.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/show.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_11_15_143759_create_pages_table.php"
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/partials/_form.blade.php"
 	],
 	"find":
 	{
@@ -705,6 +737,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"chapterbib",
+			"User",
+			"~/",
 			"./",
 			"build",
 			"getSipsStudent",
@@ -829,10 +864,7 @@
 			"type-of-pubs",
 			"PrintTypeOfPubs",
 			"PUB_BOOK",
-			"PUB_PR",
-			"$",
-			"getUserP",
-			"image_url"
+			"PUB_PR"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -860,8 +892,115 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "projecto.tex",
+					"settings":
+					{
+						"buffer_size": 3152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2549,
+								2549
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 819.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chapters/1_introduction.tex",
+					"settings":
+					{
+						"buffer_size": 2312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chapters/2_related_work.tex",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "chapters/3_architecture.tex",
+					"settings":
+					{
+						"buffer_size": 1527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -910,6 +1049,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"4",
+				"chapters/4_evaluation_metrics.tex"
+			],
+			[
+				"3_",
+				"chapters/3_architecture.tex"
+			],
+			[
+				"2_re",
+				"chapters/2_related_work.tex"
+			],
 			[
 				"app",
 				"app/config/app.php"
@@ -1409,18 +1560,6 @@
 			[
 				"navba",
 				"app/views/master_partials/_navbar.blade.php"
-			],
-			[
-				"_books",
-				"app/views/home/group/_books.blade.php"
-			],
-			[
-				"homecontr",
-				"app/controllers/HomeController.php"
-			],
-			[
-				"homepub",
-				"app/views/home/publications.blade.php"
 			]
 		],
 		"width": 0.0
