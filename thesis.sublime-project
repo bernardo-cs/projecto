@@ -58,6 +58,8 @@
           "*.gitignore",
           "*.fdb_latexmk",
           "*.out",
+          "*.run.xml",
+          "*.bcf",
           "*.synctex.gz"
       ]
     }
