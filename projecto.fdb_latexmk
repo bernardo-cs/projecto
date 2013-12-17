@@ -1,14 +1,15 @@
 # Fdb version 3
-["bibtex projecto"] 1387283193 "projecto.aux" "projecto.bbl" "projecto" 1387283197
+["bibtex projecto"] 1387316906 "projecto.aux" "projecto.bbl" "projecto" 1387317079
   "/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites.bib" 1387282259 189 705c399045b1c1d93c6be70ca9bebc3f ""
-  "/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/library.bib" 1387282071 23040 ad658547f278f8aee1b58459cbc9cd5b ""
+  "/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/library.bib" 1387304650 24023 e9ba255e143eec6e7386f04830d1b754 ""
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "projecto.aux" 1387283195 4089 1a8d5633bae489215a900a5a2d7d5522 ""
+  "projecto.aux" 1387317035 4878 77054aaee6822f60def217676b0f90bc ""
   "projecto.bcf" 1387210297 89757 a97de1b2f800b28fd7839d51a85ad3af ""
   (generated)
+  "projecto.blg"
   "projecto.bbl"
-["pdflatex"] 1387283194 "projecto.tex" "projecto.pdf" "projecto" 1387283197
+["pdflatex"] 1387317034 "projecto.tex" "projecto.pdf" "projecto" 1387317079
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/aliascnt.sty" 1381495430 2598 b30528bf103263149326b7572d9672a5 ""
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/llncs.cls" 1381495430 42849 e98f9316a296920ae82de0017d2b1604 ""
   "/Users/bersimoes/Library/texmf/tex/latex/llncs2e/remreset.sty" 1381495430 1096 6a75275ca00e32428c6f059d2f618ea7 ""
@@ -63,15 +64,17 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/utf8x.def" 1368571634 8036 21f7ac37aafb6cfeddbb196b8bfd6280 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "chapters/1_introduction.tex" 1387282655 2322 56b05ebe93055206a53c89150c1b0871 ""
-  "chapters/2_basic_concepts.tex" 1387282901 6153 30cf1576847e5790c0e97aaac03b5f00 ""
+  "chapters/2_basic_concepts.tex" 1387317033 9839 3f998a64347b8e32d662f099d4042ad4 ""
   "chapters/3_related_work.tex" 1387282542 756 74691e197fa2ea74217e28e1f98dae81 ""
   "chapters/4_architecture.tex" 1387210327 1527 cece399e649f2260d5cf77ec21303cda ""
-  "chapters/5_evaluation_metrics.tex" 1387283145 791 7aa875db338e110109f2ddcd8d8d0c0d ""
+  "chapters/5_evaluation_metrics.tex" 1387283206 791 7aa875db338e110109f2ddcd8d8d0c0d ""
   "images/1_Text_Clustering_Main_Framwork.png" 1387211760 94874 b5bd2ece8e6a8f6fb05ce2bc2a30bf7d ""
   "images/2_svm.jpg" 1387218751 18852 036906329bc4c61aa3ca833816a948fa ""
-  "projecto.aux" 1387283195 4089 1a8d5633bae489215a900a5a2d7d5522 ""
-  "projecto.bbl" 1387283194 2118 e84389f7efdaf6535e43908744742ced "bibtex projecto"
-  "projecto.out" 1387283195 807 930fdb62955395d373f96e54ca777214 ""
+  "images/4_wining_neuron_converge.jpg" 1387308564 23162 1b20f1386c52e0a3c2e876a17df44eee ""
+  "images/5_neighbours_converge.jpg" 1387316441 62503 7a2e297a95b7aab8f2a2fcaec1fb2dd7 ""
+  "projecto.aux" 1387317035 4878 77054aaee6822f60def217676b0f90bc ""
+  "projecto.bbl" 1387316907 2118 e84389f7efdaf6535e43908744742ced "bibtex projecto"
+  "projecto.out" 1387317035 884 6c421f2de43379c2ac12f35a2e1d959c ""
   "projecto.tex" 1387283104 3341 81d611f8792b086eef3ab457727b31da ""
   (generated)
   "projecto.log"

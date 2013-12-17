@@ -56,9 +56,49 @@ After the algorithm converges, cluster similarity can be calculated in multiple 
 There many clustering algorithms, here we will focus on the three most popular.K-means works by randomly selecting k documents as the cluster centroids, then assign each document to the nearest centroid, and finally recalculate the the centroid with new added documents. The algorithm should be executed until convergence which reflects in the centroids stop changing. K-means has the advantage that the number of centroids must be selected before starting the algorithm.
 AHC or Agglomerative Hierarchical Clustering is hierarquical clustering algorithm where clusters have sub-clusters which have subclusters. Like K-means it is also a simple algorithm that starts by calculating the similarity matrix, then each document is seen as a cluster and finally merge the nearest two clusters into one and update the similarity matrix. The algorithm ends when there is only one cluster or due to clustering entropy.An AHC classic example is species taxonomy where species have subspecies which have subspecies, etc.
 Lastly there is Self-organizing Maps introduces by \citep{Kohonen1990} which will be used in the thesis and will be detailedly described in the next subsection \ref{sub:self_organizing_maps}.
+
+
 % subsection clustering (end)
 
 \subsection{The Self-organizing Map} % (fold)
 \label{sub:the_self_organizing_map}
 
+The Self-organinzing map, or for short SOM is a kind of recurrent artificial neural network that as the desired property of topology preservation which mimics the way cortex of high developed animals brains work.
+
+SOMs work similar to the way that is thought that the human brain works by having a set of neurons that through learning experience specialize in the identification of certain types of patterns. These so called neurons are responsible for categorizing input patterns for which they are responsible. Nearby neurons will be organized by similarity which will cause that similar patterns will activate in similar areas of the SOM.
+With a topology preserving mapping, SOM organizes the information spatially where similar concepts are mapped to adjacent areas.
+Neurons are displayed in an n dimensional grid, generally rectangular, but other dimensions are possible like hexagonal or octagonal.  The grid of neurons, also called output space can be divided in neighborhoods where neurons responsible for the same kind of input reside.
+In SOM neurons will have the same amount of coefficients as the input patterns and can be represented as vectors through the SVM model described earlier in section \ref{sub:clustering}.
+
+Before describing the algorithm it is important to define two key aspects of the SOM, the learning rate and quantization error. The learning rate is a function that will be decreased in order to converge to zero, it will be applied to winning neurons and their neighbors in order for them to move toward the corresponding input pattern. Quantization Error is the distance between a given input pattern and the associated winning neuron, it describes how well neurons represent the input pattern.
+The learning phase is characterized by the training algorithm, which works the following way:
+\begin{itemize}
+  \item Neurons can be initialized randomly or it is possible to select initialization neurons.
+  \item Given an input pattern, calculate the distance between the input pattern and every neuron on the network.
+  \item The winning neuron will be the closest neuron to the input pattern.
+  \item The neuron will move towards the data pattern at a given learning rate, in order to improve his representation as can be seen in figure \ref{fig:4_wining_neuron_converge}.
+  \item Neighbor neurons will also improve their representation in order to keep the network progressively organized as can be seen in figure \ref{fig:5_neighbours_converge}.
+\end{itemize}
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=5cm]{images/4_wining_neuron_converge.jpg}
+  \end{center}
+  \caption{ Winning neuron converging at learning rate }
+  \label{fig:4_wining_neuron_converge}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=12cm]{images/5_neighbours_converge.jpg}
+  \end{center}
+  \caption{ On the left the output space neighbor, on the right the neighbors of the winning neuron converging }
+  \label{fig:5_neighbours_converge}
+\end{figure}
+
+After the algorithm converges, the prediction phase starts. On the prediction phase new input patterns can be quickly assigned to the SOM, without need to apply the learning rate to the winning neuron and his neighbors (the learning rate converged to zero), it very easy and fast to classify new data now. It is possible that during training the SOM gets stuck while unfolding, this kind of behavior might happen if the input patterns are very complex.
+
+The advantages of using SOM is data noisy immunity, easy to visualize the data and parallel processing.
+
 % subsection the_self_organizing_map (end)
+
