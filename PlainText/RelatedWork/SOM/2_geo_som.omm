@@ -1,0 +1,14 @@
+## Geo-SOM  SOM variation for geosicences
+
+Creates variants of the SOM algorithm in order to create relevant changes to analyze georeferenced data.
+The GEO-Som takes into account spacial dependency.
+GISscience (gegraphical information systems) is a growing area due to the increse of georefrenciated data due to the adoption of electronica devices capable of duing so.
+
+Som variances aplied to geographical data. Even though it is not directly related to this project since georefrenciation does not play a crucial part on  this project objectives. Its is possible to analyze the solutions in a way that georfrenciation is enhanced and try to apply the same concepts to enhnace the social network as the input neurons.
+Geo-enforced SOM:
+	- Use geocordinates as any other input pattern parameter, but giving them extra wheigth. Apart from the weight given to geocoordinates being 		rather subjective geographic locations that are farther apart are badly represented.
+ Hirerchical SOMs :
+	- Hirarchical SOMs are often used in application fields where a structured decomposotion into samller problems is convinient. One or more 	SOMs are located in each layer usually operating on diferent thematic variables. Hirarchical SOMs constitue a major advantage as it as been 	noted that single-purpose classifications constitute more powerfull tools than general-purpose classifications.
+Geo-SOM:
+	- Applies the first law of geography “Everything is related to everything else, but near things are more related than distant things." which is kind of similiar to the concept of Homophily that has been proven to occur in social networks which says that people tend to like people similar to them selfs and as consequence post simillar things.
+	

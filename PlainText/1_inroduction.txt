@@ -1,0 +1,33 @@
+** Setting the context **
+
+- Explain the Situation -
+	- Number of content creators increasing, number of pertinent content about an issue increases -> Need for new tools and techniques that help people understand this big data.
+	- With the increase adoption of sites like Facebook and Twitter, there are a lot of documents with very little content, noisy data corpus.
+	-Scyte:
+		-Predicting the future with social media:  predicting movie box-office revenue by monitoring word ocurrence variantions in twitter
+		-What's Happening: Finding spontanious events by analyzing  geotagged tweets
+	??? Why Topic Detection is Importante ???
+
+- Provide general information about the main idea
+	-Finding topics on twitter by organizing tweets by their main characteristics and the social network that connects them (follower/followe reletaion)
+
+- Clearly communicate what you want to discover why you are interested in the topic
+	- Organize big sets of tweets in clusters of topics topics by using self organizing maps
+	- Try to overcome problems with other solutions that only looked at the text of the tweets by taking the social network of the tweet in consideration.
+	- Utilize an unsupervised learning technique SOM that have never been used (that we know of) for topic detection 
+- Outline the structure
+	
+
+*Entregar a 6 Dezembro*
+
+*-------------------- Introduction ----------------------------*
+Whith the evolution of social networks websites like Facebook or Twitter throuout the last couple of years, the amount of pertinent content about a specifc issue is increasing dramatically, which calls for new ways to make sence and catalog this data.
+In the other hand find topic sensitive information on social networks is extremely complicated due to the fact that documents have very little content, slang vocabulary and ortograohical mistakes or abreviations.
+The value of data presented in sites like facebook or Twitter as proven its value in papers like “Predicting the future with social media” where it is possible to predict with high precision the value of a moive box office weeks before it debuts.
+
+
+--------- Objectives ----------
+The objective of this prject is clear, finding topics on Tweets by using by analysing twiits specific chracteristics, like number of characters in a tweet, hashtag, “was retweeted”, etc.. And contextualize the social network evolving the person that did the tweet in order to chracterize it. After chracterizing the tweet with information just described, we will use the unsupervised learnig clustering technique Self-organizing maps in order to cathegorize the tweets in clusters of topics.
+
+
+On 

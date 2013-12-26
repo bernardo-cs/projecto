@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"request"
+			],
+			[
 				"oa",
 				"oa_name"
 			],
@@ -336,34 +340,18 @@
 	"buffers":
 	[
 		{
-			"file": "projecto.tex",
+			"file": "chapters/2_basic_concepts.tex",
 			"settings":
 			{
-				"buffer_size": 3152,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "chapters/1_introduction.tex",
-			"settings":
-			{
-				"buffer_size": 2312,
+				"buffer_size": 10731,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "chapters/2_related_work.tex",
+			"file": "chapters/3_related_work.tex",
 			"settings":
 			{
-				"buffer_size": 770,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/3_architecture.tex",
-			"settings":
-			{
-				"buffer_size": 1527,
+				"buffer_size": 1131,
 				"line_ending": "Unix"
 			}
 		}
@@ -371,9 +359,113 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 107.0,
+		"height": 327.0,
 		"selected_items":
 		[
+			[
+				"tran",
+				"Google Translate selected text"
+			],
+			[
+				"tra",
+				"Google Translate selected text"
+			],
+			[
+				"tras",
+				"Google Translate selected text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"googl",
+				"Google Translate selected text"
+			],
+			[
+				"trans",
+				"Google Translate selected text"
+			],
+			[
+				"goo",
+				"Google Translate selected text"
+			],
+			[
+				"pack ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack add",
+				"Package Control: Add Repository"
+			],
+			[
+				"bin",
+				"BingTranslator: Translate"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"google",
+				"Google: Translate Selection"
+			],
+			[
+				"packag insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package con ins",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
 			[
 				"close ",
 				"File: Close All"
@@ -395,20 +487,8 @@
 				"Project: Save As"
 			],
 			[
-				"close",
-				"File: Close All"
-			],
-			[
 				"close all",
 				"File: Close All"
-			],
-			[
-				"dup",
-				"File: Duplicate"
-			],
-			[
-				"renam",
-				"File: Rename"
 			],
 			[
 				"rename",
@@ -503,14 +583,6 @@
 				"File: Duplicate"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
 				"instaa",
 				"Package Control: Install Package"
 			],
@@ -571,12 +643,12 @@
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 321.0
 	},
 	"distraction_free":
 	{
 		"menu_visible": true,
-		"show_minimap": false,
+		"show_minimap": true,
 		"show_open_files": false,
 		"show_tabs": false,
 		"side_bar_visible": false,
@@ -584,12 +656,28 @@
 	},
 	"file_history":
 	[
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/thesis.sublime-project",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_evaluation_metrics.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites.bib",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/Default (OSX).sublime-keymap",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/goTranslate.py",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/README.md",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/goTranslate.sublime-settings",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/User/goTranslate.sublime-settings",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/YandexTranslate/yaTranslate.sublime-settings",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/Bing Translator/Bing Translator.sublime-settings",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/Google Translate/GoogleTranslate.sublime-settings",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/User/GoogleTranslate.sublime-settings",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/1_introduction.tex",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_related_work.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_basic_concepts.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_architecture.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/5_evaluation_metrics.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_evaluation_metrics.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/5_architecture.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/3_architecture.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/thesis.sublime-project",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/thesis.sublime-workspace",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_related_work.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/library.bib",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/2_related_work.tex",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/chapters/1_introduction.tex",
 		"/Volumes/vinil/Dropbox/IST/Tese/PaperProjecto/thesis.sublime-project",
@@ -695,23 +783,7 @@
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/groups/partials/_form.blade.php",
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/GroupsController.php",
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_navbar.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/GroupsTableSeeder2.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_11_06_142115_create_groups_table.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_admin.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_11_06_185710_create_customs_table.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/CustomsTableSeeder.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/edit_home/partials/_form.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/edit_home/edit.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/SipsBarTeamController.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/sips_bar_team/index.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/PagesController.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/sips_bar_team/edit.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/sips_bar_team/partials/_form.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/NavBarTeamLisTableSeeder.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/index.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/migrations/2013_12_01_193911_create_nav_bar_team_lis_table.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/routes.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/pages/partials/_form.blade.php"
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/GroupsTableSeeder2.php"
 	],
 	"find":
 	{
@@ -734,9 +806,30 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"4_wining_neuron_converge",
+			"1_Text_Clustering_Main_Framwork",
+			"urllib2.request",
+			"urllib2",
+			"urllib",
+			"urlencode",
+			"urlopen",
+			"urlencode",
+			"urlopen",
+			"request",
+			"Request",
+			"request",
+			"Request",
+			"request",
+			"Request",
+			"servation which mimics ",
+			"é comum",
+			"related_work",
+			"@article{TweetStream,\nauthor = {Steve Agalloco},\ntitle = {{ TweetStream, simple Ruby access to Twitter's Streaming API}},\nurl = {https://github.com/tweetstream/tweetstream},\nyear = {2013}\n}",
+			"1_Text_Clustering_Main_Framwork",
+			"ucs",
 			"chapterbib",
 			"User",
 			"~/",
@@ -843,28 +936,7 @@
 			"accept_passenger",
 			"accept",
 			"after_accept",
-			"CAlled update",
-			"notify_observers",
-			"notify_observers(:after_accept)",
-			"Notification.accepted_passenger",
-			"UserNotifier.driver_accepted_passenger",
-			".accept",
-			"accept",
-			"Notification.accepted_passenger",
-			"after_accept",
-			"<a href=\"http:://umcoche.com/users/auth/facebook\" style=\"color: #FFF; text-decoration: none;\">Log in</a>",
-			"@user",
-			"create_preferences_profile_verifications",
-			"send_unread_messages_email",
-			"auto",
-			"vbguest",
-			"vbguest.auto_updat",
-			"welcome",
-			"Umcoche.com - Finalmente Online!",
-			"type-of-pubs",
-			"PrintTypeOfPubs",
-			"PUB_BOOK",
-			"PUB_PR"
+			"CAlled update"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -872,6 +944,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"basic_concepts",
 			"<a href=\"http://umcoche.com/users/auth/facebook\" style=\"color: #FFF; text-decoration: none;\">Log in</a>",
 			"    if ($input_end_year!=\"all\") {\n      $PubsObj->SetEndDate(ResearcherPublications::FILTER_ABS_DATE,12,$input_end_year);\n    }",
 			"    if ($input_year!=\"all\") {\n     $PubsObj->SetStartDate(ResearcherPublications::FILTER_ABS_DATE,1,$input_year);\n    }",
@@ -892,101 +965,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "projecto.tex",
+					"file": "chapters/2_basic_concepts.tex",
 					"settings":
 					{
-						"buffer_size": 3152,
+						"buffer_size": 10731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2549,
-								2549
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 819.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "chapters/1_introduction.tex",
-					"settings":
-					{
-						"buffer_size": 2312,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "chapters/2_related_work.tex",
-					"settings":
-					{
-						"buffer_size": 770,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								770,
-								770
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "chapters/3_architecture.tex",
-					"settings":
-					{
-						"buffer_size": 1527,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								406,
-								406
+								9009,
+								9189
 							]
 						],
 						"settings":
@@ -994,6 +989,32 @@
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chapters/3_related_work.tex",
+					"settings":
+					{
+						"buffer_size": 1131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1050,12 +1071,40 @@
 		"selected_items":
 		[
 			[
-				"4",
-				"chapters/4_evaluation_metrics.tex"
+				"2_",
+				"PaperProjecto/chapters/2_basic_concepts.tex"
+			],
+			[
+				"site",
+				"PaperProjecto/Bibtex/Sites.bib"
+			],
+			[
+				"pro",
+				"PaperProjecto/projecto.tex"
+			],
+			[
+				"5_",
+				"chapters/5_evaluation_metrics.tex"
+			],
+			[
+				"4_",
+				"PaperProjecto/chapters/4_architecture.tex"
 			],
 			[
 				"3_",
 				"chapters/3_architecture.tex"
+			],
+			[
+				"rela",
+				"PaperProjecto/chapters/2_related_work.tex"
+			],
+			[
+				"project",
+				"PaperProjecto/projecto.tex"
+			],
+			[
+				"4",
+				"chapters/4_evaluation_metrics.tex"
 			],
 			[
 				"2_re",
@@ -1532,34 +1581,6 @@
 			[
 				"show_project",
 				"app/views/home/show_project.blade.php"
-			],
-			[
-				"homecontro",
-				"app/controllers/HomeController.php"
-			],
-			[
-				"homeprojects",
-				"app/views/home/projects.blade.php"
-			],
-			[
-				"nav",
-				"app/views/master_partials/_navbar.blade.php"
-			],
-			[
-				"per",
-				"app/helpers/PersonHelper.php"
-			],
-			[
-				"peoplecontrp",
-				"app/controllers/PeopleController.php"
-			],
-			[
-				"showinfostud",
-				"app/views/people/partials/person/_show_info_student.blade.php"
-			],
-			[
-				"navba",
-				"app/views/master_partials/_navbar.blade.php"
 			]
 		],
 		"width": 0.0

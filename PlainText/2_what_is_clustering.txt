@@ -1,0 +1,51 @@
+ - What is Document clustering:
+	- Optimal division of the cathegory without prior knowldge of the data gathered, based only on the similarity between documents -> Unsupervised Machine Learning
+	- Clustering uses:
+		- Preprocessing for NLP
+		- Automatic Sumarization
+		- User preference mining
+		- Improve Text Classification results
+	Clustering types:
+		-Hard Clustering: one document belongs to one cluster
+		-Soft Clustering: one document can belong to one or more clusters
+	Clustering main framework:
+		1º  text documents
+		2º  Keyword Identification
+		3º  Constructing Feature Space
+		4º  Similarity Computation
+		5º  Mapping Documents to Clusters
+		6º  Document Clusters
+
+	Representing text in mathematical expression:
+		-SVM (suport vector machines):
+				1º  Each dimension means one term which come from the key words of the document
+				2º  Each document is presented as one vector in the feature space
+				3º The document vector is usually a sparce vector due to the size of its dimension
+					*Sparse vector is a vector with a lot of zeroes: pairs whith the value and position:
+					- example :
+						[1,0, 0,0 ,4 ]  --> [(0,1),(5,4)]
+
+	Dimensional Reduction:
+		- Due to huge  size of the  SVM , its dimension must be reduced:
+			- PCA (principal component analysis):
+				1º  given matrix n*m order document matrix
+				2º  k eigenvectors (valor próprio) of the PCA with an m*m order covariance. 
+				3º Reduces the dimension to k, which is smaller than m
+			- LSI (Latent Semantic Indexing), similar to PCA but makes value decomposition on the initial m*n matriz instead of the m*m. The selects the eighten vectors
+	
+	Extract Important Features from documents:
+		- Remove stop words will improve clustering 
+		- Different wheights shoul be given depending on the location of the word in the document if the document is has some kind of formatation (like html headers, twitter hashtags, etc...)
+		- Feature dectection is whole are of research by itself 
+
+	Clustering startegies:
+		- Complete strategie:  document collection does not change
+		- Incremental : Document collection can increase. 
+	
+	Calculating the distance or similarity between clusters:
+		1º Shortest distance method
+		2º Longest distance method
+		3º Group average method
+		4º Centric Method
+
+

@@ -11,7 +11,7 @@ Document clustering is an optimal division of data into cathegories without prio
 Yuan-Chao Liu et Al \cite{Liu2012b} described that Document Clustering can be used to a variety of Computer Science fields, such as:
 \begin{itemize}
   \item Natural Language Preprocessing.
-  \item Automatic Sumarization.
+  \item Automatic Summarization.
   \item User preference mining.
   \item Improve Text classification results.
 \end{itemize}
@@ -65,12 +65,14 @@ Lastly there is Self-organizing Maps introduces by \citep{Kohonen1990} which wil
 
 The Self-organinzing map, or for short SOM is a kind of recurrent artificial neural network that as the desired property of topology preservation which mimics the way cortex of high developed animals brains work.
 
+As \citep{Bacao2005} describes the basic idea behind SOM is to map the data patterns into an n-dimensional grid of neurons or units. That grid is also know as the output space, as opposed to the initial space also called input space, where the input patterns are. Both spaces can be seen in picture \ref{fig:5_neighbours_converge}.
+
 SOMs work similar to the way that is thought that the human brain works by having a set of neurons that through learning experience specialize in the identification of certain types of patterns. These so called neurons are responsible for categorizing input patterns for which they are responsible. Nearby neurons will be organized by similarity which will cause that similar patterns will activate in similar areas of the SOM.
-With a topology preserving mapping, SOM organizes the information spatially where similar concepts are mapped to adjacent areas.
+With a topology preserving mapping, SOM organizes the information spatially where similar concepts are mapped to adjacent areas. The topology is preserved in a sense that as far as possible neighborhoods are preserved through the mapping process.
 Neurons are displayed in an n dimensional grid, generally rectangular, but other dimensions are possible like hexagonal or octagonal.  The grid of neurons, also called output space can be divided in neighborhoods where neurons responsible for the same kind of input reside.
 In SOM neurons will have the same amount of coefficients as the input patterns and can be represented as vectors through the SVM model described earlier in section \ref{sub:clustering}.
 
-Before describing the algorithm it is important to define two key aspects of the SOM, the learning rate and quantization error. The learning rate is a function that will be decreased in order to converge to zero, it will be applied to winning neurons and their neighbors in order for them to move toward the corresponding input pattern. Quantization Error is the distance between a given input pattern and the associated winning neuron, it describes how well neurons represent the input pattern.
+Before describing the algorithm it is important to define three key aspects of the SOM, the learning rate and quantization error. The learning rate is a function that will be decreased in order to converge to zero, it will be applied to winning neurons and their neighbors in order for them to move toward the corresponding input pattern. Quantization Error is the distance between a given input pattern and the associated winning neuron, it describes how well neurons represent the input pattern. The radius of the neighborhood around the winner neuron is particularly relevant to the totpology of the SOM, deeply afecting the unfolding of the output space as stated by \citep{Bacao2005} 
 The learning phase is characterized by the training algorithm, which works the following way:
 \begin{itemize}
   \item Neurons can be initialized randomly or it is possible to select initialization neurons.
@@ -97,6 +99,8 @@ The learning phase is characterized by the training algorithm, which works the f
 \end{figure}
 
 After the algorithm converges, the prediction phase starts. On the prediction phase new input patterns can be quickly assigned to the SOM, without need to apply the learning rate to the winning neuron and his neighbors (the learning rate converged to zero), it very easy and fast to classify new data now. It is possible that during training the SOM gets stuck while unfolding, this kind of behavior might happen if the input patterns are very complex.
+
+In order to visually interpretate the result of the SOM U-matrices may be used as stated by \citep{Bacao2005}. The U-matrix is a representation of the SOM in which distances, in the input space between neurons is represented using a gray scale.
 
 The advantages of using SOM is data noisy immunity, easy to visualize the data and parallel processing.
 

@@ -1,0 +1,42 @@
+## A study on detecting patterns in twitter Intra-topic User and message clustering ##
+
+Using SOM in the context of opinnion mining and sentimental analysis on twitter.
+
+Data Collection:
+	- Use twitter API to download twitts
+	- Get user information for each twitt
+		-  type of website they own/show on profile page
+		- profile number of profile  customizations such as styled links, background picture etc.
+		- friends to followers ratio
+		- frequency of posts
+		- account age
+		- specific country	
+		- geographic location can be inacurate
+		- gender is not specified and must be calculated throught writing patterns or name recognition
+		- other social network accounts
+	- Twitts processed in order retrieve message attributes
+		- tweet size
+		- replies 
+		- re-tweets
+		- hashtags
+		- presence of uris (destinct if references images or text)
+		- type of device used
+
+Topics covered and discoveries:
+	- 2009 Iran Election (political activism)
+		- 4 demographical clusters
+			- Young Iranians web-based twitter users registred at most for a month with frequent patterns of replying
+			- Mainly web-users from Iran, accounts older than 3 months.
+			- Social Media user from Iran, in using mobile clients with large texts generating awareness
+			- Users with multiple nacionalyties sharing urls about the issue
+	- iPhone 3.0 OS launch (popular technology)
+		- Three clusters:
+			- Male users, accounts older than 90 days, coming from countries where the iphone is marketed, whith high adoption of social media 				sites
+			- New accounts with hiher rate of followers to followes, high frequence of posts per day, presence of urls, no country or gender 				specified. A subcluster of japanese users is also present which reflects acuratly the adoption of iphone in the japanese market.
+			- Fresh one day old accounts with , popular social connections, post more than 50 tweets a day with external urls -> Spamme 				behaviour.
+	- Obama foreign policy stance (major global news) ** I will not  cover this one..
+
+Conclusions: 
+	- possible to discover spammers that where afterwards removed from twitter
+	- It was possible o identify hidden patterns, yhey :D
+		

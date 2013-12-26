@@ -1,0 +1,48 @@
+SOM  Self-organizing map:
+
+Basic principles:
+	- Similar to the way human brain works.
+	- Has a set of neurons that through learning experience specialize in the identification of certain types of patterns.
+	- The concept of certain parts of the brain are responsible for specific skills is also similar to th SOM principle.
+	-Organizing information spacially where simillar concepts are mapped in adjacent areas is also a SOM priciple.
+	- Neurons are responsible for cathegorizing which are organized by classification patterns.
+	- Nearby neurons will share similarities, in this way patterns that are similar will activate in similar areas if the SOM.
+	- SOM is trained iteratively through a large number of epochs (épocas ).
+	- Neurons are displayed in n dimensional grid -> Most of the times a 2dimensional and rectangular.
+	- Inside the grid neighborhoods can be defined -> called the *output space* 
+	- Input space are the input data patterns and neurons
+	- Neurons have the same amount of wheights (or coeficients) as the input patterns and can be represented as a vector
+
+Training a SOM:
+	-How to train:
+		- Given an input pattern, calculate the distance between the input pattern and every neuron on the network.
+		- Select the neuron closest (winning neuron) to the input pattern, and say the pattern is mapped to that neuron.
+		- Neuron will move towards the data pattern at a given *learning rate* in order to improve his representation
+		-Neighbour neurons will also adjust theire position . This way the network is progressivly organized  with certain parts of the input space 		represented by subsets of neighbouring neurons.
+	- Quantization Error (how well neurons represent the input pattern):  no matter how much we train the network there will always be a diference 	between th input data and the neuron responsible for it
+	-Topological error: the number of times the second closest neighbor in the input space is not mapped mapped into the neighborhood of the neuron 	in the output space. The highest the topological error means that preserving the network is dificult , or training data not dequate.
+	- Neurons initialized randomly -> Or in this case will be initiallized using the social network
+	-Local minima: SOM gets stuck while unfolding. This might happen when th input patterns are very complex
+
+Characterization:
+	- Defenition of neighborhood function and learning rate beforehand (based on heuristic information)
+
+Advantages:
+	-Noise imunity
+	-Dynamic number of clusters
+	-Visualization
+	-Parallel processing
+
+Other text clustering methods:
+	- AHC
+		1º Calculate the document similarity matrix
+		2º Each document is seen as a cluster	
+		3º Merge the nearest two clusters into one
+		4º  Update similarity matrix (recalculating new clusters) if theres is only on cluster it ends otherwise go to steo 3 -> can stop based on clustering entropy
+	- K-means
+		1º Randomly select k documents as the cluster centroids
+		2º  Assign each document to the nearest centroid
+		3º Recalculate the centroid
+		4º Repeat 2 and 3 until the centroid stop changing
+		K-means is afected by the initial choice of the clusters number
+
