@@ -1,0 +1,20 @@
+## Tweet relevant to a topic
+
+*Sintactical Features
+
+- USe name entity recognition service Dbpedia spotlight in order to find synonims
+- Sintactical features analyzed:
+  - hasHashtag
+  - hasURL
+  - isReply
+  - length of tweet
+
+*Semantical Features (Use dbpedia to)
+- number of entities
+- number of entities of a specific type
+- diversity of topics
+- Use twitter sentiment to know if it is positive/negative
+
+*Contextual features
+ - number of tweets posted by a user
+ - temporal context 

@@ -1,0 +1,34 @@
+## Politics Twitter and Information Discover
+
+Cluster users based on issue framing
+
+- Finds most influence twitters in a specific hashtag with non sparse contributions (more than 40 tweets on the topic). Measures their influence through third party API twitalyzer.
+- Bundle all tweets from a single user into the document representation of a user-> transformed into bag of words
+- Use SVM and measure the euclidian distance.
+-Twitter Corpus Specific Analysis:
+  - Calculate user rank by mentions in twitter using  SimRank.
+  - Jaccard Similarity coefficient .
+
+- Hierarchical Agglomerative Clustering to cluster documents
+  - Content based clustering
+  - Hash tag based clustering 
+  - Mentions based clustering -> shit!
+
+
+## Tweet Mining using wikipedia and Impurity Cluster Management
+
+Hashtag as a topic problems:
+  - multiple hshtags same tweet
+  - multiple hashtags same topic
+
+Expand feature set with wikipedia to overcome tweet categorization problem due to the fact that tweets are extremely short.
+
+Algorithm:
+  - Tweet extraction with stop word/slang/unkown words removal, search wikipedia with the words that are left and get the first 3 to 7 results.
+  - First cluster (K-NN) then classify clusters
+  - Classify the clusters into topics with prcentages where they can be strong or weak clusters
+  - If a cluster is very weak they minimize its impurity by applying a Gini Coeficient 
+  - They have awesome precision and recall results but dont explain how they evaluated the results (who verified if the tweets where well labeled??)
+
+## Key word base Document Clustering
+Instead of using TFIDF related methods for clustering, use word weights (keywords) -> Makes sense for twitter

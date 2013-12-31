@@ -1,0 +1,41 @@
+## Emerging Topic Detection on Twitter @done
+Retrieve real-time topic and trend detection
+
+- Retrieve tweets and apply vector space model to its words
+- Apply the page rank algorithm to the author of the tweets in order to discover authorities
+- model a topic life cycle in order to determine trends
+- select emerging terms by ranking
+- create a navigable graph of emerging terms with relative co-ocurrency in order to obtain emerging topics
+- A topic is defined by a set of terms in a given time frame, with its relation to the other words in tweets
+- Manual topic labeling
+
+they keep the noise (stop words and synonims in foreighn language, typos, typos, etc)
+
+
+## Emerging topic detection using dictionary learning
+Dictionary leraning with twitter continuous streaming API
+
+ITF ID used for clustering with their own algorithm NvlClust and DictClust
+
+##Topic Detection and Tracking
+
+Takes into account may aspects of the document, crating four destinct vectors that dont reside on the same space, one for locations, another for names, the third one is for temporal characterization and finally the fourth and last one comprising document terms. Document similarity is based IDF.
+Match documents with a cross matrix, where documents can match in any of the fourth spaces defined previously where in the end is possible to query multiple documents relations between the four vector spaces.
+Used with a corpus of 10384 Finish news.
+
+## Topic Detection by Clustering Key words @notcited
+Clustering without prior knowledge, with own algorithm k-bisecting, using and tested on wikipedia texts.
+Topic identification and characterinzing topics part of the task. 
+
+## TwitterRank Finding topic sensitive influential twitters @done
+Found that 72.4% of user follow back 80% of the users, explained by homophily. Measures the influence of users on a given topic.
+- Identify topics in which users are interested by destyling all their tweets, and apply Latent Dirichlet Allocation (LDA), which uses vector representation of tweets with bag of words.
+- Represent the relations in three matrices, users * topic, words * topics, 1* total number of words in tweets 
+- Dont label the topics
+- Create topic specific relations
+- Apply PageRank to the graph created in order to find most influent tweeters on a given topic
+
+## Unsupervised Construction of Topic-based Twitter Lists @notcited
+Cluster tweets with k-means and Affinity propagation (AP), use two different document representations TFIDF and LDA
+
+Created two datasets for topic discovery, one constructed by analyzing topic datasets from Listorious, another one from twitter sugested cathegories and apply clustering algorithms k-means and AP

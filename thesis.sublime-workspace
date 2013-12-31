@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"Fig",
+				"figure"
+			],
+			[
+				"ta",
+				"tab:tao_table"
+			],
+			[
 				"re",
 				"request"
 			],
@@ -339,36 +347,36 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "chapters/2_basic_concepts.tex",
-			"settings":
-			{
-				"buffer_size": 10731,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/3_related_work.tex",
-			"settings":
-			{
-				"buffer_size": 1131,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 327.0,
+		"height": 87.0,
 		"selected_items":
 		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tra",
+				"Google Translate selected text"
+			],
 			[
 				"tran",
 				"Google Translate selected text"
 			],
 			[
-				"tra",
-				"Google Translate selected text"
+				"snipp tab",
+				"Snippet: table"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
 			],
 			[
 				"tras",
@@ -401,10 +409,6 @@
 			[
 				"pack",
 				"Package Control: Remove Package"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
 			],
 			[
 				"packa in",
@@ -477,10 +481,6 @@
 			[
 				"build",
 				"Build: Build"
-			],
-			[
-				"du",
-				"File: Duplicate"
 			],
 			[
 				"proje",
@@ -591,10 +591,6 @@
 				"Preferences: Alignment Key Bindings – Default"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"file se",
 				"File: Search Files"
 			],
@@ -648,7 +644,7 @@
 	"distraction_free":
 	{
 		"menu_visible": true,
-		"show_minimap": true,
+		"show_minimap": false,
 		"show_open_files": false,
 		"show_tabs": false,
 		"side_bar_visible": false,
@@ -656,8 +652,15 @@
 	},
 	"file_history":
 	[
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites.bib",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/1_introduction.tex",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/1_clustering_twitter.txt",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/3_twitter_data_mining.txt",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/3_related_work.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/1_emerging_topic_detection.txt",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_basic_concepts.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites.bib",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/Default (OSX).sublime-keymap",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/goTranslate.py",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/README.md",
@@ -667,8 +670,6 @@
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/Bing Translator/Bing Translator.sublime-settings",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/Google Translate/GoogleTranslate.sublime-settings",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/User/GoogleTranslate.sublime-settings",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/1_introduction.tex",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_basic_concepts.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_architecture.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/5_evaluation_metrics.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_evaluation_metrics.tex",
@@ -778,12 +779,7 @@
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_head.blade.php",
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_projects.blade.php",
 		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/HomePublicationsTableSeeder.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/bootstrap/start.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/groups/edit.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/groups/partials/_form.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/controllers/GroupsController.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_navbar.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/GroupsTableSeeder2.php"
+		"/Users/bersimoes/Documents/coding/sips_backend/laravel/bootstrap/start.php"
 	],
 	"find":
 	{
@@ -809,6 +805,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"McCreadie2013",
+			"Not Important ",
+			"Not Important",
+			"Important",
+			"%",
 			"4_wining_neuron_converge",
 			"1_Text_Clustering_Main_Framwork",
 			"urllib2.request",
@@ -931,12 +932,7 @@
 			"receive_email_passenger_canceled_seat",
 			"receive_email_passenger_reserved_seat",
 			"assim que",
-			"ele",
-			"model",
-			"accept_passenger",
-			"accept",
-			"after_accept",
-			"CAlled update"
+			"ele"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -965,63 +961,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "chapters/2_basic_concepts.tex",
-					"settings":
-					{
-						"buffer_size": 10731,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9009,
-								9189
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 39.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "chapters/3_related_work.tex",
-					"settings":
-					{
-						"buffer_size": 1131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								437,
-								437
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1071,16 +1012,36 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"chapters/1_introduction.tex"
+			],
+			[
+				"pro",
+				"PaperProjecto/projecto.tex"
+			],
+			[
+				"1_",
+				"chapters/1_introduction.tex"
+			],
+			[
+				"cluster",
+				"PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/1_clustering_twitter.txt"
+			],
+			[
+				"emer",
+				"PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/1_emerging_topic_detection.txt"
+			],
+			[
+				"intr",
+				"chapters/1_introduction.tex"
+			],
+			[
 				"2_",
 				"PaperProjecto/chapters/2_basic_concepts.tex"
 			],
 			[
 				"site",
 				"PaperProjecto/Bibtex/Sites.bib"
-			],
-			[
-				"pro",
-				"PaperProjecto/projecto.tex"
 			],
 			[
 				"5_",
@@ -1561,26 +1522,6 @@
 			[
 				"show_student",
 				"app/views/people/show_student.blade.php"
-			],
-			[
-				"query",
-				"app/helpers/QueryHelper.php"
-			],
-			[
-				"perso",
-				"app/helpers/PersonHelper.php"
-			],
-			[
-				"peoplesho",
-				"app/views/people/show.blade.php"
-			],
-			[
-				"_project",
-				"app/views/home/projects_partials/_project.blade.php"
-			],
-			[
-				"show_project",
-				"app/views/home/show_project.blade.php"
 			]
 		],
 		"width": 0.0
@@ -1596,7 +1537,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 239.0,
 	"status_bar_visible": true
 }
