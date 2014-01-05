@@ -2,7 +2,7 @@
 \section{Related Work} % (fold)
 \label{sec:related_work}
 
-This section provides insight of work done in multiple research areas that are related to the project. In subsection \ref{sub:self_organizing_maps} will be described multiple work done using Self-organizing maps. Subsection \ref{sub:topic_detection_on_twitter} is dedicated to work done on topic detection on the social network Twitter \citep{Twitter}
+This section provides insight of work done in multiple research areas that are related to the project. In subsection \ref{sub:self_organizing_maps} will be described multiple work done using Self-organizing maps. Subsection \ref{sub:topic_detection_on_twitter} is dedicated to work done on topic detection on the social network Twitter \footnote{http://www.twitter.com}
 
 \subsection{Self-organizing Maps} % (fold)
 \label{sub:self_organizing_maps}
@@ -11,7 +11,7 @@ Self-organizing maps are used in a wide are of applications, from authentication
 \subsubsection{Detecting Hidden Patterns on Twitter Usage} % (fold)
 \label{ssub:detecting_hidden_patterns_on_twitter_usage}
 
-\citep{Cheong2010} analyzed hidden patterns created buy the natural usage of twitter by its users. In its study they started by collecting data from the twitter API different kinds of topics like "2009 Iran Election" and "iPhone 3.0 OS launch". They made multi level signal extraction not only from information directly present on the tweet, but also by cross referencing with other social website and with the twitter user profile information. The signals retrieved from the social network can be seen in table \ref{tab:twitter_signals}.
+\citep{Cheong2010} analyzed hidden patterns created buy the natural usage of twitter by its users. In its study they started by collecting dallta from the twitter API different kinds of topics like "2009 Iran Election" and "iPhone 3.0 OS launch". They made multi level signal extraction not only from information directly present on the tweet, but also by cross referencing with other social website and with the twitter user profile information. The signals retrieved from the social network can be seen in table \ref{tab:twitter_signals}.
 
 \begin{table}[H]
   \caption{Twitter Signals}
@@ -156,13 +156,13 @@ With this trained model they where able to improve precision in an order of 0.9.
 
 \subsubsection{Rapidly Changing Trends} % (fold)
 \label{ssub:real_time_}
-Due to the real time nature of Twitter, using typical retrieval model that rely on term frequency models like BM25 or language modeling cannot be applied as stated by \citet{Lin2012}. The study of topic perdurance on the social network proved that it is presented in bursts of queries and mentions of a topic. The typical usage of Twitter for search is not the same of Google, when user are searching in twitter they want to find out what is happening right know meaning that classification techniques based on past events cannot respond this kind problem. As stated by \citet{Lin2012} this problem has not yet been solved at twitter (or anywhere else at the time of writing this report), and issues a new kind of data analysis approach that was not taken into consideration in the past. 
+Due to the real time nature of Twitter, using typical retrieval model that rely on term frequency models like BM25 or language modeling cannot be applied as stated by \citet{Lin2012}. The study of topic perdurance on the social network proved that it is presented in bursts of queries and mentions of a topic. The typical usage of twitterr for search is not the same of Google, when user are searching in twitter they want to find out what is happening right know meaning that classification techniques based on past events cannot respond this kind problem. As stated by \citet{Lin2012} this problem has not yet been solved at twitter (or anywhere else at the time of writing this report), and issues a new kind of data analysis approach that was not taken into consideration in the past. 
 This effect of rapidly changing topics and queries based on real time events was named "Churn", and can be clearly seen in figure \ref{fig:churn}.
 
   \begin{figure}[tb]
     \begin{center}
     \noindent\makebox[\textwidth]{
-      \includegraphics[width=\paperwidth]{images/7_churn.png}
+      \includegraphics[width=13cm]{images/7_churn.png}
     }
     \end{center}
     \caption{The Churn effect: Frequencies of queries related to Steve Jobs death over a 12 hour period in 5-minute intervals, normalized to the total number of queries in the interval. At its peak, the query “steve jobs” reaches 0.15 (15\% of the query stream); Graph taken from \cite{Lin2012}}

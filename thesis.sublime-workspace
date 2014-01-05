@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"sub",
+				"subs	Sub Sub Section"
+			],
+			[
+				"att",
+				"sec:attachments"
+			],
+			[
 				"Fig",
 				"figure"
 			],
@@ -351,27 +359,43 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 87.0,
+		"height": 400.0,
 		"selected_items":
 		[
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"tra",
-				"Google Translate selected text"
-			],
 			[
 				"tran",
 				"Google Translate selected text"
 			],
 			[
-				"snipp tab",
-				"Snippet: table"
+				"trans",
+				"Google Translate selected text"
+			],
+			[
+				"re",
+				"File: Rename"
 			],
 			[
 				"du",
+				"File: Duplicate"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"orig",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"dup",
 				"File: Duplicate"
 			],
 			[
@@ -379,19 +403,35 @@
 				"Package Control: Install Package"
 			],
 			[
-				"tras",
-				"Google Translate selected text"
+				"origame",
+				"Origami: Zoom Current Pane"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"googl",
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"tra",
 				"Google Translate selected text"
 			],
 			[
-				"trans",
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp tab",
+				"Snippet: table"
+			],
+			[
+				"tras",
+				"Google Translate selected text"
+			],
+			[
+				"googl",
 				"Google Translate selected text"
 			],
 			[
@@ -400,14 +440,6 @@
 			],
 			[
 				"pack ",
-				"Package Control: Remove Package"
-			],
-			[
-				"package",
-				"Package Control: Remove Package"
-			],
-			[
-				"pack",
 				"Package Control: Remove Package"
 			],
 			[
@@ -451,20 +483,12 @@
 				"File: Close All"
 			],
 			[
-				"re",
-				"File: Rename"
-			],
-			[
 				"ren",
 				"File: Rename"
 			],
 			[
 				"rena",
 				"File: Rename"
-			],
-			[
-				"dup",
-				"File: Duplicate"
 			],
 			[
 				"renam",
@@ -629,13 +653,9 @@
 			[
 				"upp",
 				"Convert Case: Upper Case"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			]
 		],
-		"width": 593.0
+		"width": 601.0
 	},
 	"console":
 	{
@@ -653,14 +673,19 @@
 	"file_history":
 	[
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/1_introduction.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/6_conclusions_and_future_work.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/3_related_work.tex",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_architecture.tex",
+		"/Users/bersimoes/Documents/coding/ruby_redis_pubsub/pub.rb",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites.bib",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/7_attatchments.tex",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_basic_concepts.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/1_clustering_twitter.txt",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/3_twitter_data_mining.txt",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/3_related_work.tex",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/projecto.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/PlainText/RelatedWork/TopicDetectionTwitter/1_emerging_topic_detection.txt",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/2_basic_concepts.tex",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/Bibtex/Sites.bib",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/Default (OSX).sublime-keymap",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/goTranslate.py",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/GoogleTranslate/README.md",
@@ -670,7 +695,6 @@
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/Bing Translator/Bing Translator.sublime-settings",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/Google Translate/GoogleTranslate.sublime-settings",
 		"/Users/bersimoes/Library/Application Support/Sublime Text 2/Packages/User/GoogleTranslate.sublime-settings",
-		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_architecture.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/5_evaluation_metrics.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/4_evaluation_metrics.tex",
 		"/Users/bersimoes/Documents/Tese/PaperProjecto/chapters/5_architecture.tex",
@@ -775,11 +799,7 @@
 		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/ride_request_accepted.html.erb",
 		"/Users/bersimoes/Documents/coding/umcoche/app/views/user_notifier/ride_requested_accepted.html.erb",
 		"/Users/bersimoes/Documents/coding/umcoche/Vagrantfile",
-		"/Users/bersimoes/Documents/coding/umcoche/config/environments/production.rb",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/master_partials/_head.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/views/people/partials/person/_show_projects.blade.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/app/database/seeds/HomePublicationsTableSeeder.php",
-		"/Users/bersimoes/Documents/coding/sips_backend/laravel/bootstrap/start.php"
+		"/Users/bersimoes/Documents/coding/umcoche/config/environments/production.rb"
 	],
 	"find":
 	{
@@ -805,6 +825,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"url",
+			"_",
+			"-",
+			"best",
+			"evaluation_metrics",
+			"theme",
 			"McCreadie2013",
 			"Not Important ",
 			"Not Important",
@@ -926,13 +952,7 @@
 			"PessoaId",
 			"nome",
 			"PessoaId",
-			"http::",
-			"model",
-			"after_cancel",
-			"receive_email_passenger_canceled_seat",
-			"receive_email_passenger_reserved_seat",
-			"assim que",
-			"ele"
+			"http::"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1012,12 +1032,48 @@
 		"selected_items":
 		[
 			[
-				"in",
-				"chapters/1_introduction.tex"
+				"4_",
+				"chapters/4_architecture.tex"
+			],
+			[
+				"att",
+				"chapters/7_attatchments.tex"
+			],
+			[
+				"6_",
+				"PaperProjecto/chapters/6_conclusions_and_future_work.tex"
 			],
 			[
 				"pro",
 				"PaperProjecto/projecto.tex"
+			],
+			[
+				"proje",
+				"PaperProjecto/projecto.tex"
+			],
+			[
+				"rel",
+				"PaperProjecto/chapters/3_related_work.tex"
+			],
+			[
+				"site",
+				"PaperProjecto/Bibtex/Sites.bib"
+			],
+			[
+				"",
+				"chapters/1_introduction.tex"
+			],
+			[
+				"chpters",
+				"chapters/3_related_work.tex"
+			],
+			[
+				"chapter",
+				"chapters/2_basic_concepts.tex"
+			],
+			[
+				"in",
+				"chapters/1_introduction.tex"
 			],
 			[
 				"1_",
@@ -1040,16 +1096,8 @@
 				"PaperProjecto/chapters/2_basic_concepts.tex"
 			],
 			[
-				"site",
-				"PaperProjecto/Bibtex/Sites.bib"
-			],
-			[
 				"5_",
 				"chapters/5_evaluation_metrics.tex"
-			],
-			[
-				"4_",
-				"PaperProjecto/chapters/4_architecture.tex"
 			],
 			[
 				"3_",
@@ -1494,34 +1542,6 @@
 			[
 				"homepublications",
 				"app/views/home/publications.blade.php"
-			],
-			[
-				"queryhelper",
-				"app/helpers/QueryHelper.php"
-			],
-			[
-				"homecon",
-				"app/controllers/HomeController.php"
-			],
-			[
-				"_navbar",
-				"app/views/master_partials/_navbar.blade.php"
-			],
-			[
-				"_head",
-				"app/views/master_partials/_head.blade.php"
-			],
-			[
-				"_show_advisors",
-				"app/views/people/partials/person/_show_advisors.blade.php"
-			],
-			[
-				"_show_ongoing_dissertations",
-				"app/views/people/partials/person/_show_ongoing_dissertations.blade.php"
-			],
-			[
-				"show_student",
-				"app/views/people/show_student.blade.php"
 			]
 		],
 		"width": 0.0

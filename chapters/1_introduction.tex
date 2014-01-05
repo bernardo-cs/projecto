@@ -44,10 +44,11 @@ First this report will be dedicated to explain some basics concepts like Documen
 \subsection{Objectives} % (fold)
 \label{sub:objectives}
 
-The objective of this project is clear, finding topics on Tweets by analyzing their corpus specific characteristics, like number of characters in a tweet, Hashtag, “was retweeted”, etc.. And contextualize the social network evolving the person that did the tweet.
+The objective of this project is clear, finding topics on Tweets by analyzing their corpus specific characteristics, like number of characters in a tweet, Hashtag, “was retweeted”, etc.. And contextualize the social network evolving the person that did the tweet by retrieving user specific profile information.
 
-After characterizing the tweet with information just described, we will use the unsupervised learning clustering technique Self-organizing maps in order to organize the tweets in clusters of topics. Afterwards it will be needed to categorize the clusters in order to know which topic they belong to.
+After building the dataset, it will be needed to train the Self-organizing map neural network in order to be able to have the network ready for clustering classification of each future tweet that will be added to it. After the SOM training it will be necessary to categorize the clusters in order to know which topic they belong to. When this step ha ended it will be possibly to get new tweets categorized on the moment they enter the network without further delay.
 
-Lastly the resulting topic clusters will be publicly accessible through a website to everybody that visits it.
+In the end it will be presented a website where a user will be able to login with his twitter account and see all of his tweets being categorization in the moment they are clustered. After all the user twitts are clustered there will a graphical presentation of the user twitter usage where it will be possible to see multiple statiscal information such as the the topics a user is more interested in and his own twitter Self-organizing map network of topics with his friends, the wire-frames of the website can be seen in the attachments section \ref{sec:attachments} in figure \ref{fig:wireframes}.
+
 % section objectives (end)
 % subsection objectives (end)
