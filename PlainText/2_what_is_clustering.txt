@@ -17,7 +17,7 @@
 		6º  Document Clusters
 
 	Representing text in mathematical expression:
-		-SVM (suport vector machines):
+		-VSM (suport vector machines):
 				1º  Each dimension means one term which come from the key words of the document
 				2º  Each document is presented as one vector in the feature space
 				3º The document vector is usually a sparce vector due to the size of its dimension
@@ -26,7 +26,7 @@
 						[1,0, 0,0 ,4 ]  --> [(0,1),(5,4)]
 
 	Dimensional Reduction:
-		- Due to huge  size of the  SVM , its dimension must be reduced:
+		- Due to huge  size of the  VSM , its dimension must be reduced:
 			- PCA (principal component analysis):
 				1º  given matrix n*m order document matrix
 				2º  k eigenvectors (valor próprio) of the PCA with an m*m order covariance. 

@@ -27,7 +27,7 @@ The value of data presented in sites like facebook or Twitter as proven its valu
 
 
 --------- Objectives ----------
-The objective of this prject is clear, finding topics on Tweets by using by analysing twiits specific chracteristics, like number of characters in a tweet, hashtag, “was retweeted”, etc.. And contextualize the social network evolving the person that did the tweet in order to chracterize it. After chracterizing the tweet with information just described, we will use the unsupervised learnig clustering technique Self-organizing maps in order to cathegorize the tweets in clusters of topics.
+The objective of this prject is clear, finding topics on Tweets by using by analysing twiits specific chracteristics, like number of characters in a tweet, hashtag, “was retweeted”, etc.. And contextualize the social network evolving the person that did the tweet in order to chracterize it. After chracterizing the tweet with information just described, we will use the unsupervised learnig clustering technique Self-Organizing maps in order to cathegorize the tweets in clusters of topics.
 
 
 On 

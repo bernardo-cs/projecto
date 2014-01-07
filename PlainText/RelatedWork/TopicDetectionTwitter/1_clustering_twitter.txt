@@ -4,7 +4,7 @@ Cluster users based on issue framing
 
 - Finds most influence twitters in a specific hashtag with non sparse contributions (more than 40 tweets on the topic). Measures their influence through third party API twitalyzer.
 - Bundle all tweets from a single user into the document representation of a user-> transformed into bag of words
-- Use SVM and measure the euclidian distance.
+- Use VSM and measure the euclidean distance.
 -Twitter Corpus Specific Analysis:
   - Calculate user rank by mentions in twitter using  SimRank.
   - Jaccard Similarity coefficient .
@@ -26,9 +26,9 @@ Expand feature set with wikipedia to overcome tweet categorization problem due t
 Algorithm:
   - Tweet extraction with stop word/slang/unkown words removal, search wikipedia with the words that are left and get the first 3 to 7 results.
   - First cluster (K-NN) then classify clusters
-  - Classify the clusters into topics with prcentages where they can be strong or weak clusters
+  - Classify the clusters into topics with percentages where they can be strong or weak clusters
   - If a cluster is very weak they minimize its impurity by applying a Gini Coeficient 
-  - They have awesome precision and recall results but dont explain how they evaluated the results (who verified if the tweets where well labeled??)
+  - They have awesome precision and recall results but don't explain how they evaluated the results (who verified if the tweets where well labeled??)
 
 ## Key word base Document Clustering
 Instead of using TFIDF related methods for clustering, use word weights (keywords) -> Makes sense for twitter
